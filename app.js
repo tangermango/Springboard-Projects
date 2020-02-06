@@ -8,6 +8,3 @@ ul.addEventListener("click", function(event) {
     selectedElement.getAttribute("data-model")
   );
 });
-
-
-josh
